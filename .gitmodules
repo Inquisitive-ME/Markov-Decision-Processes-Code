@@ -1,0 +1,3 @@
+[submodule "hiivemdptoolbox"]
+	path = hiivemdptoolbox
+	url = git@github.com:Inquisitive-ME/hiivemdptoolbox.git
